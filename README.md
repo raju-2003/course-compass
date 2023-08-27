@@ -1,0 +1,2 @@
+# course-compass
+IEM-hacks
